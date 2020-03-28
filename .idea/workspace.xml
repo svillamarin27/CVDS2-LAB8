@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffb80da9-c392-4faa-b0a5-d404ab48f576" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="XML Properties File" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+        <option value="XHTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z0WHteRXi0sQXZbxjwarMTqBqT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\OneDrive\Escritorio\CVDS\CVDS-LABORATORIO8\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyBatisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.eci.cvds.samples.services.client.MyBatisExample" />
+      <module name="MyBATIS-Guice-DAO-VideorentalServicesLayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.eci.cvds.samples.services.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyBatisExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffb80da9-c392-4faa-b0a5-d404ab48f576" name="Default Changelist" comment="" />
+      <created>1583410676483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583410676483</updated>
+      <workItem from="1583976412878" duration="9817000" />
+      <workItem from="1583986905855" duration="68000" />
+      <workItem from="1584551613293" duration="3069000" />
+      <workItem from="1584657674552" duration="16000" />
+      <workItem from="1584829828672" duration="7029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Project_Structure" timestamp="1584551634047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584551634047" />
+    <state x="532" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584835534106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584835534106" />
+    <state width="1342" height="210" key="GridCell.Tab.0.bottom" timestamp="1583986427356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583986427356" />
+    <state width="1342" height="210" key="GridCell.Tab.0.center" timestamp="1583986427356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583986427356" />
+    <state width="1342" height="210" key="GridCell.Tab.0.left" timestamp="1583986427355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583986427355" />
+    <state width="1342" height="210" key="GridCell.Tab.0.right" timestamp="1583986427356">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583986427356" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1583986932151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583986932151" />
+    <state x="209" y="38" key="new project wizard" timestamp="1584835502355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584835502355" />
+  </component>
+</project>
